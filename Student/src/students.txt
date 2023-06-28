@@ -1,0 +1,6 @@
+1 , son , 24 , HD
+2 , bang , 25 , HD
+3 , quang , 24 , HD
+4 , bach , 33 , HN
+5 , huynh , 24 , Hn
+6 , khanh , 22 , HN

@@ -1,0 +1,12 @@
+1,Nguyễn Bá Sơn,24,Hải Dương,8.0
+2,Nguyễn Văn Quang,24,Hải Dương,9.0
+3,Nguyễn Công Khanh,29,Hà Nội,8.800000190734863
+4,Nguyễn Đăng Hải,28,Hà Nội,9.0
+5,Lý Thế Bách,33,Hà Nội,8.5
+6,Nguyễn Văn Đạt,27,Hà Nội,9.0
+7,Nguyễn Anh Tuấn,28,Hà Nội,8.800000190734863
+8,Nguyễn Đức Hiếu,27,Hà Nội,9.0
+9,Nguyễn Đức Hảo,26,Hà Nội,9.5
+10,Trịnh Đình Thục,30,Hà Nội,8.300000190734863
+11,Trần Văn Nguyên,25,Hà Nội,9.0
+12,Trương Đăng Vũ Linh,23,Hà Nội,8.800000190734863
